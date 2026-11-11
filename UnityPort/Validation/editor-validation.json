@@ -1,0 +1,11 @@
+{
+    "unityVersion": "6000.6.8f1",
+    "scene": "Assets/_Game/Scenes/Game.unity",
+    "result": "passed",
+    "spriteCount": 19,
+    "walkingFrames": 5,
+    "eatingFrames": 3,
+    "fallingFrames": 2,
+    "universal2D": true,
+    "utc": "2026-11-09T20:21:58.3814606Z"
+}

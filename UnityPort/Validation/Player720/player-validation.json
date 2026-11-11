@@ -1,0 +1,11 @@
+{
+    "unityVersion": "6000.6.8f1",
+    "graphicsDevice": "Direct3D12",
+    "passed": true,
+    "screenshot": true,
+    "gameOverScreenshot": true,
+    "placementScreenshot": true,
+    "spriteRenderers": 15,
+    "textObjects": 6,
+    "error": ""
+}

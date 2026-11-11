@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 7494410e3f848c548a92249e885bb36e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1839825590569672620
+    second: zombieAgachandose1_0
+  - first:
+      213: 6017643466318181444
+    second: zombieAgachandose1_1
+  - first:
+      213: -6866843645264855661
+    second: zombieAgachandose1_2
+  - first:
+      213: -726129316776171176
+    second: zombieAgachandose1_3
+  - first:
+      213: -7510347971375594610
+    second: zombieAgachandose1_4
+  - first:
+      213: -328362977521687631
+    second: zombieAgachandose1_5
+  - first:
+      213: 1666819902530693058
+    second: zombieAgachandose1_6
+  - first:
+      213: -5614210672235639135
+    second: zombieAgachandose1_7
+  - first:
+      213: 1401528409853314378
+    second: zombieAgachandose1_8
+  - first:
+      213: 1515755126869518775
+    second: zombieAgachandose1_9
+  - first:
+      213: 3880413863869616113
+    second: zombieAgachandose1_10
+  - first:
+      213: 8308306773772114510
+    second: zombieAgachandose1_11
+  - first:
+      213: 607877955968390683
+    second: zombieAgachandose1_12
+  - first:
+      213: -7671875785275666012
+    second: zombieAgachandose1_13
+  - first:
+      213: -1473502018168427893
+    second: zombieAgachandose1_14
+  - first:
+      213: 7659689185375733291
+    second: zombieAgachandose1_15
+  - first:
+      213: -5207056512839016789
+    second: zombieAgachandose1_16
+  - first:
+      213: -4629288349565997194
+    second: zombieAgachandose1_17
+  - first:
+      213: 7733622212147207546
+    second: zombieAgachandose1_18
+  - first:
+      213: 1306500387404332871
+    second: zombieAgachandose1_19
+  - first:
+      213: -4698919527294393954
+    second: zombieAgachandose1_20
+  - first:
+      213: 7393082644941239884
+    second: zombieAgachandose1_21
+  - first:
+      213: -4276562994472509974
+    second: zombieAgachandose1_22
+  - first:
+      213: -8326920325923577682
+    second: zombieAgachandose1_23
+  - first:
+      213: 3094001071917714987
+    second: zombieAgachandose1_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombieAgachandose1_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf149670af588910800000000000000
+      internalID: 1839825590569672620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 610
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44478da89d6f28350800000000000000
+      internalID: 6017643466318181444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 521
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39df6d3361214b0a0800000000000000
+      internalID: -6866843645264855661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 549
+        width: 144
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8592f8ccb354ce5f0800000000000000
+      internalID: -726129316776171176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 100
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e830592cf42e5c790800000000000000
+      internalID: -7510347971375594610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 532
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b32e679c9b617bf0800000000000000
+      internalID: -328362977521687631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 562
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7a4e2cedbb12710800000000000000
+      internalID: 1666819902530693058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 552
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae003393215612b0800000000000000
+      internalID: -5614210672235639135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 559
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45cce3c9aa337310800000000000000
+      internalID: 1401528409853314378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 520
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9e88fc14b090510800000000000000
+      internalID: 1515755126869518775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 568
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff037199dff9d530800000000000000
+      internalID: 3880413863869616113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 498
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a98afcdf80d4370800000000000000
+      internalID: 8308306773772114510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 498
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b165940c7cd9f6800800000000000000
+      internalID: 607877955968390683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 528
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a119b1ee95088590800000000000000
+      internalID: -7671875785275666012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 534
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aef3fa8b11d8be0800000000000000
+      internalID: -1473502018168427893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 552
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c8383bbeac4a60800000000000000
+      internalID: 7659689185375733291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 484
+        width: 41
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae98d290b1dcb7b0800000000000000
+      internalID: -5207056512839016789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 504
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fa349e5c671cfb0800000000000000
+      internalID: -4629288349565997194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dda1e6d68535b60800000000000000
+      internalID: 7733622212147207546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 496
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f35222e2f912210800000000000000
+      internalID: 1306500387404332871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 481
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a87bf5951aceb0800000000000000
+      internalID: -4698919527294393954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 512
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46f3dece71899660800000000000000
+      internalID: 7393082644941239884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 486
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed92ee5d9896a4c0800000000000000
+      internalID: -4276562994472509974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0685cd416d07c80800000000000000
+      internalID: -8326920325923577682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieAgachandose1_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e455a059910fa20800000000000000
+      internalID: 3094001071917714987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zombieAgachandose1_0: 1839825590569672620
+      zombieAgachandose1_1: 6017643466318181444
+      zombieAgachandose1_10: 3880413863869616113
+      zombieAgachandose1_11: 8308306773772114510
+      zombieAgachandose1_12: 607877955968390683
+      zombieAgachandose1_13: -7671875785275666012
+      zombieAgachandose1_14: -1473502018168427893
+      zombieAgachandose1_15: 7659689185375733291
+      zombieAgachandose1_16: -5207056512839016789
+      zombieAgachandose1_17: -4629288349565997194
+      zombieAgachandose1_18: 7733622212147207546
+      zombieAgachandose1_19: 1306500387404332871
+      zombieAgachandose1_2: -6866843645264855661
+      zombieAgachandose1_20: -4698919527294393954
+      zombieAgachandose1_21: 7393082644941239884
+      zombieAgachandose1_22: -4276562994472509974
+      zombieAgachandose1_23: -8326920325923577682
+      zombieAgachandose1_24: 3094001071917714987
+      zombieAgachandose1_3: -726129316776171176
+      zombieAgachandose1_4: -7510347971375594610
+      zombieAgachandose1_5: -328362977521687631
+      zombieAgachandose1_6: 1666819902530693058
+      zombieAgachandose1_7: -5614210672235639135
+      zombieAgachandose1_8: 1401528409853314378
+      zombieAgachandose1_9: 1515755126869518775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

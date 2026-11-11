@@ -1,0 +1,158 @@
+{
+  "generatedAtUtc": "2026-11-09T20:23:26.6181734+00:00",
+  "passedCount": 25,
+  "failedCount": 0,
+  "assertionCount": 101,
+  "cases": [
+    {
+      "label": "Geometr\u00EDa: 9x5 y bordes exclusivos del patio",
+      "passed": true,
+      "assertions": 8,
+      "error": null
+    },
+    {
+      "label": "Compra al seleccionar, cancelaci\u00F3n y colocaci\u00F3n sin doble cobro",
+      "passed": true,
+      "assertions": 5,
+      "error": null
+    },
+    {
+      "label": "Cancelar fuera y en el fondo del selector no reembolsa",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "Celda ocupada conserva selecci\u00F3n",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "Pala gratuita con saldo cero y tarjeta impagable",
+      "passed": true,
+      "assertions": 6,
+      "error": null
+    },
+    {
+      "label": "Girasol comienza su intervalo al colocarse",
+      "passed": true,
+      "assertions": 4,
+      "error": null
+    },
+    {
+      "label": "Sol: generaci\u00F3n a 15s, recogida \u002B50 y caducidad a 10s",
+      "passed": true,
+      "assertions": 4,
+      "error": null
+    },
+    {
+      "label": "Recoger tiene prioridad y conserva planta o pala",
+      "passed": true,
+      "assertions": 3,
+      "error": null
+    },
+    {
+      "label": "Retirar productor conserva sus soles",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "L\u00EDmite de tres soles y reanudaci\u00F3n sin cola",
+      "passed": true,
+      "assertions": 5,
+      "error": null
+    },
+    {
+      "label": "Disparo solo con objetivo vivo delante y en su fila",
+      "passed": true,
+      "assertions": 5,
+      "error": null
+    },
+    {
+      "label": "Barrido alcanza al objetivo m\u00E1s cercano una sola vez",
+      "passed": true,
+      "assertions": 3,
+      "error": null
+    },
+    {
+      "label": "Cooldown medido desde el impacto",
+      "passed": true,
+      "assertions": 3,
+      "error": null
+    },
+    {
+      "label": "Cooldown medido desde la salida completa",
+      "passed": true,
+      "assertions": 3,
+      "error": null
+    },
+    {
+      "label": "Cuatro impactos, destello y ca\u00EDda de 0.8s",
+      "passed": true,
+      "assertions": 11,
+      "error": null
+    },
+    {
+      "label": "Retirar lanzador elimina su guisante activo",
+      "passed": true,
+      "assertions": 1,
+      "error": null
+    },
+    {
+      "label": "Mordiscos cada 1.1s y planta retirada al tercero",
+      "passed": true,
+      "assertions": 5,
+      "error": null
+    },
+    {
+      "label": "Escape requiere cruzar completamente el borde izquierdo",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "Cad\u00E1ver fuera de pantalla no provoca derrota",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "Impactos se resuelven antes de la derrota",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "X usa cantidad configurable, m\u00EDnimo uno y signos simult\u00E1neos",
+      "passed": true,
+      "assertions": 7,
+      "error": null
+    },
+    {
+      "label": "Game Over congela estado y Retry conserva cantidad manual",
+      "passed": true,
+      "assertions": 5,
+      "error": null
+    },
+    {
+      "label": "Salir solo solicita cierre desde el modal",
+      "passed": true,
+      "assertions": 2,
+      "error": null
+    },
+    {
+      "label": "Aparici\u00F3n autom\u00E1tica a 4s y frecuencia creciente",
+      "passed": true,
+      "assertions": 5,
+      "error": null
+    },
+    {
+      "label": "Redimensionar conserva entidades fuera de pantalla y celdas",
+      "passed": true,
+      "assertions": 4,
+      "error": null
+    }
+  ]
+}

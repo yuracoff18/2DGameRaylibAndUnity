@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: d3366f527c2272a48a6af61081dc467a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7583534341469440416
+    second: zombieComiendo1_0
+  - first:
+      213: -4398980579928678614
+    second: zombieComiendo1_1
+  - first:
+      213: 1022888995931755755
+    second: zombieComiendo1_2
+  - first:
+      213: -4960841779123050153
+    second: zombieComiendo1_3
+  - first:
+      213: -166801209434761810
+    second: zombieComiendo1_4
+  - first:
+      213: -7935108318282566013
+    second: zombieComiendo1_5
+  - first:
+      213: -2507532424409979051
+    second: zombieComiendo1_6
+  - first:
+      213: -8436836612748134510
+    second: zombieComiendo1_7
+  - first:
+      213: 4076422542377569980
+    second: zombieComiendo1_8
+  - first:
+      213: 1582765536241434109
+    second: zombieComiendo1_9
+  - first:
+      213: 6637950636860062483
+    second: zombieComiendo1_10
+  - first:
+      213: 4120965290288562268
+    second: zombieComiendo1_11
+  - first:
+      213: 8985406293824193196
+    second: zombieComiendo1_12
+  - first:
+      213: 4195437123307856394
+    second: zombieComiendo1_13
+  - first:
+      213: 19330457069334381
+    second: zombieComiendo1_14
+  - first:
+      213: 5508428803909701205
+    second: zombieComiendo1_15
+  - first:
+      213: 3520914540970487331
+    second: zombieComiendo1_16
+  - first:
+      213: -3498900029942613060
+    second: zombieComiendo1_17
+  - first:
+      213: 3484646597436893269
+    second: zombieComiendo1_18
+  - first:
+      213: -2238196190973946546
+    second: zombieComiendo1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombieComiendo1_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 648
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a90345ed402e3960800000000000000
+      internalID: 7583534341469440416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 643
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f5287287ea3f2c0800000000000000
+      internalID: -4398980579928678614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 640
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be41b2f4f18023e00800000000000000
+      internalID: 1022888995931755755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 509
+        width: 224
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75924708fac872bb0800000000000000
+      internalID: -4960841779123050153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 626
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5198b0f276fadf0800000000000000
+      internalID: -166801209434761810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 631
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386358ac605d0e190800000000000000
+      internalID: -7935108318282566013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 629
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e444ab84733dd0800000000000000
+      internalID: -2507532424409979051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 489
+        width: 70
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297332d0dc55aea80800000000000000
+      internalID: -8436836612748134510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 545
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe4fc854bc529830800000000000000
+      internalID: 4076422542377569980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 614
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb66e8edc17f510800000000000000
+      internalID: 1582765536241434109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 506
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b3f925fecbe1c50800000000000000
+      internalID: 6637950636860062483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 510
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c504d53091c903930800000000000000
+      internalID: 4120965290288562268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 495
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca243f1ea6392bc70800000000000000
+      internalID: 8985406293824193196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 367
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a026044d5df293a30800000000000000
+      internalID: 4195437123307856394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 495
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa6f2c2fca44000800000000000000
+      internalID: 19330457069334381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 501
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e419fefced17c40800000000000000
+      internalID: 5508428803909701205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 469
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ead03de1dccd030800000000000000
+      internalID: 3520914540970487331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 364
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbbaa2f5f8617fc0800000000000000
+      internalID: -3498900029942613060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 372
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558efff2e93fb5030800000000000000
+      internalID: 3484646597436893269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombieComiendo1_19
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 28
+        width: 54
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459d5b3c6450f0e0800000000000000
+      internalID: -2238196190973946546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zombieComiendo1_0: 7583534341469440416
+      zombieComiendo1_1: -4398980579928678614
+      zombieComiendo1_10: 6637950636860062483
+      zombieComiendo1_11: 4120965290288562268
+      zombieComiendo1_12: 8985406293824193196
+      zombieComiendo1_13: 4195437123307856394
+      zombieComiendo1_14: 19330457069334381
+      zombieComiendo1_15: 5508428803909701205
+      zombieComiendo1_16: 3520914540970487331
+      zombieComiendo1_17: -3498900029942613060
+      zombieComiendo1_18: 3484646597436893269
+      zombieComiendo1_19: -2238196190973946546
+      zombieComiendo1_2: 1022888995931755755
+      zombieComiendo1_3: -4960841779123050153
+      zombieComiendo1_4: -166801209434761810
+      zombieComiendo1_5: -7935108318282566013
+      zombieComiendo1_6: -2507532424409979051
+      zombieComiendo1_7: -8436836612748134510
+      zombieComiendo1_8: 4076422542377569980
+      zombieComiendo1_9: 1582765536241434109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

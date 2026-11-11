@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b8e858e759aa784aa87b9d1a4a100af, type: 3}
+  m_Name: GameArt
+  m_EditorClassIdentifier: Assembly-CSharp::Garden.Game.GameArt
+  sunflower: {fileID: 21300000, guid: 7cc5ccfa000eaa64c94e4a8b4f3e6aae, type: 3}
+  peashooter: {fileID: 21300000, guid: 3f2f1e0293ed63e439b25fcb0c5be987, type: 3}
+  sunflowerCard: {fileID: 21300000, guid: cb22c6e38494fde4d849784c1848dd97, type: 3}
+  peashooterCard: {fileID: 21300000, guid: 601acc37b470c6245b5f630c88ee3ec4, type: 3}
+  shovel: {fileID: 21300000, guid: efab818a066946d4e979360dbce682df, type: 3}
+  grass: {fileID: 21300000, guid: a338d3b797faec44d9f3dd8033825c12, type: 3}
+  sun: {fileID: 21300000, guid: a412a87fd78a27e4bb8f8d9a68c87361, type: 3}
+  white: {fileID: 21300000, guid: 22759a425ac771b45ababd30d68eac52, type: 3}
+  circle: {fileID: 21300000, guid: 1f2c2a1a14419804cacba5a4af5e3190, type: 3}
+  zombieWalk:
+  - {fileID: 21300000, guid: a5800983b3b079643adbf1fe4bacc9a1, type: 3}
+  - {fileID: 21300000, guid: 434fdcbe73f48b54f9ae2624561a3d9b, type: 3}
+  - {fileID: 21300000, guid: e7ca04d0222c3e440885f47384c389ec, type: 3}
+  - {fileID: 21300000, guid: e02529167000a8c4486df4dfc98d1aea, type: 3}
+  - {fileID: 21300000, guid: 3a8df710b90b717409714bdf32359648, type: 3}
+  zombieEat:
+  - {fileID: 21300000, guid: 244b56306f53bfd46b836ab3e9047066, type: 3}
+  - {fileID: 21300000, guid: 5fdc2607b84609d4da17bfa91e32f6b2, type: 3}
+  - {fileID: 21300000, guid: a2aa775b2ea6dcc48ab4c442ee8e3a19, type: 3}
+  zombieDie:
+  - {fileID: 21300000, guid: b53f0e16996c6bc49a28c168dd19122e, type: 3}
+  - {fileID: 21300000, guid: 533baf593d02e1e4180f990211ba2479, type: 3}
+  spriteMaterial: {fileID: 2100000, guid: a4f2b4848fe7b0d45b22400544518ef7, type: 2}
+  flashMaterial: {fileID: 2100000, guid: 03e7f27d2cbc3324cad201dd7e4fed80, type: 2}
+  groundMaterial: {fileID: 2100000, guid: 6559d271da142e34a9ecefaad12a6073, type: 2}
+  font: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  plantViewPrefab: {fileID: 8714041798838368270, guid: 6ce64e86f2971914896b79abc8feeb3f, type: 3}
+  zombieViewPrefab: {fileID: 8501977576801293897, guid: 422a8d62cfcf2de4d8e6f406c7d0b57f, type: 3}
+  peaViewPrefab: {fileID: 5092878376893791082, guid: a11c8c91625bfd049a8e1ae4fd9cc9e5, type: 3}
+  sunViewPrefab: {fileID: 3656968441139563672, guid: b1e69b750aad71940bb66cb4080f5e6e, type: 3}
